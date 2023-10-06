@@ -3,12 +3,11 @@ const spanPlayer = document.querySelector('.player');
 const timer = document.querySelector('.timer');
 
 const characters = [
-  'resposta1',
-  'resposta2',
+  'biblioteca',
   'caa',
   'ceei',
-  'cp'
-
+  'cp',
+  'laguinho'
 ];
 
 const createElement = (tag, className) => {
